@@ -5,3 +5,4 @@ __pycache__/
 *.Zone.Identifier
 .env
 kaggle.json
+*.pdf
