@@ -8,3 +8,4 @@ kaggle.json
 *.pdf
 *.pdf
 models/*.pkl
+models/lgbm.txt
