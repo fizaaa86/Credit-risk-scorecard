@@ -1,0 +1,172 @@
+feature,bin,count,default_rate,woe,points
+EXT_SOURCE_3,"(-inf, 0.18)",10843,22.1,-1.175,21
+EXT_SOURCE_3,"[0.18, 0.32)",20780,14.4,-0.651,31
+EXT_SOURCE_3,"[0.32, 0.41)",21237,9.7,-0.198,39
+EXT_SOURCE_3,"[0.41, 0.47)",16008,8.1,-0.002,43
+EXT_SOURCE_3,"[0.47, 0.53)",14612,6.2,0.292,48
+EXT_SOURCE_3,"[0.53, 0.57)",12576,5.8,0.357,50
+EXT_SOURCE_3,"[0.57, 0.63)",22277,4.9,0.54,53
+EXT_SOURCE_3,"[0.63, 0.67)",11817,4.3,0.664,55
+EXT_SOURCE_3,"[0.67, 0.70)",11348,4.0,0.755,57
+EXT_SOURCE_3,"[0.70, 0.76)",16336,3.5,0.893,60
+EXT_SOURCE_3,"[0.76, inf)",14878,3.1,1.019,62
+EXT_SOURCE_3,Special,0,0.0,0.0,43
+EXT_SOURCE_3,Missing,42545,9.2,-0.149,40
+EXT_SOURCE_2,"(-inf, 0.15)",12578,21.5,-1.135,17
+EXT_SOURCE_2,"[0.15, 0.26)",15253,14.0,-0.619,29
+EXT_SOURCE_2,"[0.26, 0.32)",12190,11.7,-0.413,33
+EXT_SOURCE_2,"[0.32, 0.38)",11073,11.0,-0.339,35
+EXT_SOURCE_2,"[0.38, 0.46)",18480,9.4,-0.166,39
+EXT_SOURCE_2,"[0.46, 0.52)",17728,8.0,0.015,43
+EXT_SOURCE_2,"[0.52, 0.55)",13808,7.7,0.057,44
+EXT_SOURCE_2,"[0.55, 0.60)",20934,6.7,0.201,48
+EXT_SOURCE_2,"[0.60, 0.62)",11177,6.5,0.233,48
+EXT_SOURCE_2,"[0.62, 0.66)",23250,5.5,0.404,52
+EXT_SOURCE_2,"[0.66, 0.69)",20375,4.6,0.589,57
+EXT_SOURCE_2,"[0.69, 0.73)",19451,3.8,0.789,61
+EXT_SOURCE_2,"[0.73, inf)",18517,2.9,1.071,68
+EXT_SOURCE_2,Special,0,0.0,0.0,43
+EXT_SOURCE_2,Missing,443,8.8,-0.095,41
+EXT_SOURCE_1,"(-inf, 0.27)",15634,15.4,-0.728,32
+EXT_SOURCE_1,"[0.27, 0.42)",19960,9.2,-0.149,41
+EXT_SOURCE_1,"[0.42, 0.57)",19860,6.4,0.255,47
+EXT_SOURCE_1,"[0.57, 0.67)",14233,5.2,0.476,50
+EXT_SOURCE_1,"[0.67, 0.77)",12850,3.8,0.787,55
+EXT_SOURCE_1,"[0.77, inf)",11481,2.7,1.139,61
+EXT_SOURCE_1,Special,0,0.0,0.0,43
+EXT_SOURCE_1,Missing,121239,8.5,-0.057,42
+YEARS_EMPLOYED,"(-inf, 1.37)",28399,11.3,-0.37,39
+YEARS_EMPLOYED,"[1.37, 2.69)",28148,11.1,-0.35,40
+YEARS_EMPLOYED,"[2.69, 3.86)",21435,10.2,-0.262,40
+YEARS_EMPLOYED,"[3.86, 4.90)",15999,9.4,-0.168,41
+YEARS_EMPLOYED,"[4.90, 6.70)",20242,7.9,0.023,43
+YEARS_EMPLOYED,"[6.70, 8.45)",16074,7.0,0.148,44
+YEARS_EMPLOYED,"[8.45, 12.04)",19970,6.3,0.269,45
+YEARS_EMPLOYED,"[12.04, 18.10)",15017,5.4,0.437,47
+YEARS_EMPLOYED,"[18.10, inf)",11333,4.2,0.703,49
+YEARS_EMPLOYED,Special,0,0.0,0.0,43
+YEARS_EMPLOYED,Missing,38640,5.4,0.431,47
+BUREAU_DEBT_TO_CREDIT,"(-inf, 0.00)",13600,4.8,0.551,52
+BUREAU_DEBT_TO_CREDIT,"[0.00, 0.28)",14849,5.0,0.504,52
+BUREAU_DEBT_TO_CREDIT,"[0.28, 0.55)",24981,5.8,0.354,49
+BUREAU_DEBT_TO_CREDIT,"[0.55, 0.64)",12356,6.9,0.177,46
+BUREAU_DEBT_TO_CREDIT,"[0.64, 0.72)",14334,7.6,0.069,44
+BUREAU_DEBT_TO_CREDIT,"[0.72, 0.81)",15393,9.1,-0.13,41
+BUREAU_DEBT_TO_CREDIT,"[0.81, 0.89)",18028,10.6,-0.305,38
+BUREAU_DEBT_TO_CREDIT,"[0.89, 0.96)",15530,12.2,-0.457,35
+BUREAU_DEBT_TO_CREDIT,"[0.96, inf)",13291,13.5,-0.575,33
+BUREAU_DEBT_TO_CREDIT,Special,0,0.0,0.0,43
+BUREAU_DEBT_TO_CREDIT,Missing,72895,7.7,0.057,44
+INST_LATE_SHARE_LAST12,"(-inf, 0.04)",136881,6.7,0.194,47
+INST_LATE_SHARE_LAST12,"[0.04, 0.09)",21787,9.0,-0.119,41
+INST_LATE_SHARE_LAST12,"[0.09, 0.17)",15413,10.9,-0.334,36
+INST_LATE_SHARE_LAST12,"[0.17, 0.37)",15440,11.9,-0.434,34
+INST_LATE_SHARE_LAST12,"[0.37, inf)",14614,13.5,-0.573,31
+INST_LATE_SHARE_LAST12,Special,0,0.0,0.0,43
+INST_LATE_SHARE_LAST12,Missing,11122,6.1,0.294,49
+BUREAU_YEARS_SINCE_FIRST,"(-inf, 0.92)",10844,13.2,-0.551,40
+BUREAU_YEARS_SINCE_FIRST,"[0.92, 1.98)",18549,10.8,-0.324,41
+BUREAU_YEARS_SINCE_FIRST,"[1.98, 2.91)",18457,9.4,-0.173,42
+BUREAU_YEARS_SINCE_FIRST,"[2.91, 3.73)",17726,8.4,-0.044,43
+BUREAU_YEARS_SINCE_FIRST,"[3.73, 4.22)",11100,7.7,0.046,43
+BUREAU_YEARS_SINCE_FIRST,"[4.22, 4.78)",11712,7.2,0.128,44
+BUREAU_YEARS_SINCE_FIRST,"[4.78, 5.59)",12787,6.7,0.2,44
+BUREAU_YEARS_SINCE_FIRST,"[5.59, 6.64)",21595,6.5,0.232,44
+BUREAU_YEARS_SINCE_FIRST,"[6.64, 7.11)",17432,6.2,0.291,45
+BUREAU_YEARS_SINCE_FIRST,"[7.11, 7.74)",28911,5.9,0.33,45
+BUREAU_YEARS_SINCE_FIRST,"[7.74, inf)",15392,5.5,0.412,45
+BUREAU_YEARS_SINCE_FIRST,Special,0,0.0,0.0,43
+BUREAU_YEARS_SINCE_FIRST,Missing,30752,10.1,-0.245,41
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Accountants', 'IT staff', 'HR staff', 'High skill tech staff']
+Length: 4, dtype: str",15504,5.7,0.379,47
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Managers']
+Length: 1, dtype: str",15005,6.3,0.272,46
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Core staff', 'Medicine staff', 'Private service staff', 'Secretaries']
+Length: 4, dtype: str",28223,6.5,0.24,45
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Realty agents', 'Sales staff', 'Cleaning staff', 'Cooking staff']
+Length: 4, dtype: str",30373,9.7,-0.206,41
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Laborers', 'Security staff']
+Length: 2, dtype: str",43333,10.6,-0.296,40
+OCCUPATION_TYPE,"<ArrowStringArray>
+['Drivers', 'Waiters/barmen staff', 'Low-skill Laborers']
+Length: 3, dtype: str",15395,11.9,-0.429,38
+OCCUPATION_TYPE,Special,0,0.0,0.0,43
+OCCUPATION_TYPE,Missing,67424,6.5,0.237,45
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[      'Trade: type 4',   'Industry: type 12',   'Transport: type 1',
+          'University', 'Security Ministries',              'Police',
+            'Military',                'Bank',       'Trade: type 6',
+           'Insurance',                 'XNA',              'School',
+       'Trade: type 5',               'Hotel',             'Culture']
+Length: 15, dtype: str",54799,5.3,0.445,48
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[      'Electricity', 'Industry: type 10',          'Services',
+          'Medicine',  'Industry: type 6',  'Industry: type 9',
+      'Kindergarten']
+Length: 7, dtype: str",17060,6.6,0.212,45
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[   'Trade: type 2',        'Emergency', 'Industry: type 2',
+ 'Industry: type 5',       'Government',      'Advertising',
+ 'Industry: type 7',          'Telecom']
+Length: 8, dtype: str",11461,7.2,0.131,44
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[              'Religion',                  'Other', 'Business Entity Type 1',
+      'Transport: type 2',         'Legal Services']
+Length: 5, dtype: str",17575,7.9,0.029,43
+ORGANIZATION_TYPE,"<ArrowStringArray>
+['Housing', 'Industry: type 11', 'Business Entity Type 2']
+Length: 3, dtype: str",11370,8.3,-0.036,42
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[                'Postal',      'Transport: type 4',          'Trade: type 1',
+ 'Business Entity Type 3',                 'Mobile',          'Trade: type 7',
+       'Industry: type 4']
+Length: 7, dtype: str",59209,9.3,-0.154,41
+ORGANIZATION_TYPE,"<ArrowStringArray>
+['Industry: type 3', 'Trade: type 3', 'Self-employed']
+Length: 3, dtype: str",31678,10.3,-0.263,40
+ORGANIZATION_TYPE,"<ArrowStringArray>
+[         'Security',       'Agriculture',          'Cleaning',
+  'Industry: type 1',      'Construction',        'Restaurant',
+           'Realtor', 'Industry: type 13', 'Transport: type 3',
+  'Industry: type 8']
+Length: 10, dtype: str",12105,11.8,-0.42,38
+ORGANIZATION_TYPE,Special,0,0.0,0.0,43
+ORGANIZATION_TYPE,Missing,0,0.0,0.0,43
+AMT_CREDIT_TO_GOODS_RATIO,"(-inf, 1.10)",93237,6.4,0.246,48
+AMT_CREDIT_TO_GOODS_RATIO,"[1.10, 1.13)",23029,7.2,0.13,45
+AMT_CREDIT_TO_GOODS_RATIO,"[1.13, 1.16)",21991,7.2,0.118,45
+AMT_CREDIT_TO_GOODS_RATIO,"[1.16, 1.21)",31804,9.0,-0.12,41
+AMT_CREDIT_TO_GOODS_RATIO,"[1.21, 1.32)",25000,10.7,-0.309,37
+AMT_CREDIT_TO_GOODS_RATIO,"[1.32, inf)",19995,13.0,-0.53,32
+AMT_CREDIT_TO_GOODS_RATIO,Special,0,0.0,0.0,43
+AMT_CREDIT_TO_GOODS_RATIO,Missing,201,7.5,0.085,45
+PREV_REFUSAL_RATE,"(-inf, 0.06)",133487,7.1,0.142,45
+PREV_REFUSAL_RATE,"[0.06, 0.16)",11708,7.5,0.082,44
+PREV_REFUSAL_RATE,"[0.16, 0.26)",21434,8.6,-0.069,42
+PREV_REFUSAL_RATE,"[0.26, 0.45)",20726,10.7,-0.311,39
+PREV_REFUSAL_RATE,"[0.45, inf)",16331,13.9,-0.611,35
+PREV_REFUSAL_RATE,Special,0,0.0,0.0,43
+PREV_REFUSAL_RATE,Missing,11571,6.2,0.285,47
+BUREAU_ACTIVE_COUNT,"(-inf, 0.50)",32273,5.6,0.398,48
+BUREAU_ACTIVE_COUNT,"[0.50, 1.50)",51932,7.0,0.147,45
+BUREAU_ACTIVE_COUNT,"[1.50, 2.50)",40949,7.4,0.089,44
+BUREAU_ACTIVE_COUNT,"[2.50, 3.50)",26749,8.3,-0.035,42
+BUREAU_ACTIVE_COUNT,"[3.50, 4.50)",15425,9.4,-0.164,41
+BUREAU_ACTIVE_COUNT,"[4.50, inf)",17177,12.2,-0.46,37
+BUREAU_ACTIVE_COUNT,Special,0,0.0,0.0,43
+BUREAU_ACTIVE_COUNT,Missing,30752,10.1,-0.245,40
+PREV_GRANTED_TO_REQUESTED,"(-inf, 0.88)",16228,6.2,0.282,47
+PREV_GRANTED_TO_REQUESTED,"[0.88, 0.97)",36447,6.7,0.205,46
+PREV_GRANTED_TO_REQUESTED,"[0.97, 0.99)",17617,7.2,0.126,45
+PREV_GRANTED_TO_REQUESTED,"[0.99, 1.04)",52384,7.4,0.093,44
+PREV_GRANTED_TO_REQUESTED,"[1.04, 1.06)",13507,8.1,-0.006,43
+PREV_GRANTED_TO_REQUESTED,"[1.06, 1.09)",24633,8.8,-0.095,42
+PREV_GRANTED_TO_REQUESTED,"[1.09, 1.13)",21518,10.4,-0.284,39
+PREV_GRANTED_TO_REQUESTED,"[1.13, inf)",19938,12.3,-0.468,36
+PREV_GRANTED_TO_REQUESTED,Special,0,0.0,0.0,43
+PREV_GRANTED_TO_REQUESTED,Missing,12985,6.3,0.262,47
